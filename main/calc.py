@@ -6,3 +6,6 @@ class Calc:
 
     def add(self):
         return self.a + self.b
+
+    def add_02():
+        print('こんにちは')
